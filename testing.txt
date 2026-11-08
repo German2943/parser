@@ -1,0 +1,6 @@
+   func suma(a, b)
+       ret a + b;
+   end
+
+   local x := suma(1, 2);
+   println x;
